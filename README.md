@@ -35,8 +35,8 @@ Skills: HTML / CSS / Java / MYSQL / C / C++ / C# / Dart / PYTHON / Flutter
 <a href="https://www.facebook.com/mdeftiarhkhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdeftiarhkhan" height="30" width="40" /></a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdeftiarhaiderkhan&theme=midnight-purple&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EftiarHKhan&theme=midnight-purple&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samiulhaquereal)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EftiarHKhan)  
 
-![Profile views](https://gpvc.arturio.dev/mdeftiarhaiderkhan)  
+![Profile views](https://gpvc.arturio.dev/EftiarHKhan)  
