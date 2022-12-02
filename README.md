@@ -1,4 +1,4 @@
-![Learner](https://i.postimg.cc/MGRW962X/B-M-Samiul-Haque-Real.png)
+![Learner](https://kruschecompany.com/wp-content/uploads/2022/09/Hero-image-for-analysis-of-international-Flutter-developer-salary-ranges-with-data-covering-Germany-Switzerland-United-Kingdom-Eastern-Europe-India-and-USA.jpg)
 ### Hi 👋, Md Eftiar Haider Khan is here!
 #### Learner| Programmer 
 
