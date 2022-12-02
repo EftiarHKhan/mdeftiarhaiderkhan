@@ -3,9 +3,12 @@
 #### Learner| Programmer 
 
 💻 I am a current student of IUBAT (CSE).
+
 🎓 Currently I am learning Python, Machine Learning
+
 🚀 I am passionate about Deep Learning, Machine Learning, Artificial 
-      Intelligence, Cloud Computing, 
+      Intelligence, Cloud Computing, Flutter Development
+      
 ⚡ Learning is a game & I am a gamer.
 
 Skills: HTML / CSS / Java / MYSQL / C / C++ / C# / Dart / PYTHON / Flutter 
@@ -37,6 +40,6 @@ Skills: HTML / CSS / Java / MYSQL / C / C++ / C# / Dart / PYTHON / Flutter
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EftiarHKhan&theme=midnight-purple&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EftiarHKhan)  
+
 
 ![Profile views](https://gpvc.arturio.dev/EftiarHKhan)  
